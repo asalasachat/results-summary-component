@@ -1,12 +1,13 @@
 .container{
-    width: 45%;
+    width: 40%;
     margin: auto;
-    border: 1px #342eea59 solid;
+    border: 1px #0000001d solid;
     border-radius: 25px;
-    box-shadow: 0px 0px 15px -5px #342eea;
+    box-shadow: 0px 0px 10px -5px #01001c;
     display: flex;
     flex-wrap: nowrap;
     font-family: 'Hanken Grotesk';
+    margin-top: 100px;
 }
 .overview, .details{
     width:50%;
@@ -110,19 +111,19 @@ button{
 }
 .visual{
     color: #303181;
-    background: #30318130 ;
+    background: #30318120 ;
 }
 .verbal{
     color:#00b18e;
-    background:#00b18e30;
+    background:#00b18e20;
 }
 .memory{
     color: #e3a928;
-    background:#e3a92830;
+    background:#e3a92820;
 }
 .reaction{
     color: #de4954;
-    background:#de495430;
+    background:#de495420;
 }
 .valuerel{
     font-weight:normal;
