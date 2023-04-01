@@ -111,19 +111,19 @@ button{
 }
 .visual{
     color: #303181;
-    background: #30318120 ;
+    background: #30318115 ;
 }
 .verbal{
     color:#00b18e;
-    background:#00b18e20;
+    background:#00b18e15;
 }
 .memory{
     color: #e3a928;
-    background:#e3a92820;
+    background:#e3a92815;
 }
 .reaction{
     color: #de4954;
-    background:#de495420;
+    background:#de495415;
 }
 .valuerel{
     font-weight:normal;
